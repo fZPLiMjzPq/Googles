@@ -1,7 +1,7 @@
 ! name: Search spec sites
 ! description: websites
 ! author: Goggles 101
-! public: true
+! public: false
 ! avatar: #ff6600
 
 $discard
